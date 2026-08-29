@@ -1,0 +1,1 @@
+# 6. Probabilidade experimental. Um experimento consiste em lançar um dado 20 vezes. O programa recebe o resultado de cada lançamento e deve contar quantas vezes apareceu um número par. Ao final, deve calcular a probabilidade experimental de obter um número par.

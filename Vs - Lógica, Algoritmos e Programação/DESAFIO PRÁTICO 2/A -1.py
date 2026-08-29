@@ -1,0 +1,1 @@
+# 1. Utilizando uma estrutura de repetição, escreva um programa em Python que calcule o fatorial de um número informado pelo usuário.

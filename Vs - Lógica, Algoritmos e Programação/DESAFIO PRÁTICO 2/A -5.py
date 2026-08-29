@@ -1,0 +1,1 @@
+# 5. Uma população inicial de 2727 indivíduos cresce a uma taxa de 4% ao ano. Escreva um programa em Python que simule o crescimento dessa população e mostre o tamanho da população ao final de cada ano, durante 5 anos. 

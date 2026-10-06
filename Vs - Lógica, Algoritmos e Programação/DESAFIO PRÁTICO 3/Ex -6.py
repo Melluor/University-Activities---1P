@@ -1,0 +1,1 @@
+'''6. Um sistema de cadastro precisa calcular a idade de uma pessoa a partir do seu ano de nascimento e do ano atual. Para isso você deve criar uma função. A função deve receber os dois anos e retornar a idade da pessoa. Desafio: faça o programa informar se a pessoa é:  menor de idade; maior de idade.'''

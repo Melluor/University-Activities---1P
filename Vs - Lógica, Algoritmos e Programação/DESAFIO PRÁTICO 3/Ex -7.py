@@ -1,0 +1,1 @@
+# 7. Uma empresa de construção precisa calcular rapidamente a área de diferentes figuras geométricas. Crie três funções para a área do triângulo, área do trapézio e área do losango. 

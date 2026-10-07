@@ -1,5 +1,4 @@
 '''4. Uma empresa possui uma lista com os preços de alguns produtos. Antes de apresentar os valores ao cliente, todos os preços precisam receber um acréscimo de 10%. 
- 
 O programador inicialmente escreveu o código da seguinte maneira: 
 
 precos = [50, 80, 120, 35, 200, 75]
@@ -10,7 +9,6 @@ for preco in precos:
 print(novos_precos)
 
 O código funciona corretamente, mas a equipe deseja torná-lo mais compacto e utilizar List Comprehension. Sua tarefa é reescrever o programa utilizando List Comprehension.'''
-
 precos = [50, 80, 120, 35, 200, 75]
 novos_precos = [f"R$ {round(preco * 1.10, 2)}".replace(".", ',') for preco in precos] # round arredonda o valor. replace substitui '.' para ','.
 print(novos_precos)

@@ -1,0 +1,2 @@
+# 2. O professor de matemática Alan Turing pediu sua ajuda para criar um pequeno sistema para calcular as áreas das figuras planas. Ele pediu que o usuário possa escolher qual figura quer calcular. Para cada cálculo de uma figura faça uma função específica. Utilize a figura abaixo como apoio matemático e das figuras que seu programa deve conter. Dica: utilize a biblioteca math.
+# Triângulo; Quadrado; Losango; Retângulo; Trapézio; Círculo.
